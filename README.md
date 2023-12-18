@@ -8,8 +8,8 @@ docker-compose build
 ```
 
 
-Fastapi service URL - localhost:8000
-PostgreSQL DB url - localhost:8001
+* Fastapi service URL - localhost:8000
+* PostgreSQL DB url - localhost:8001
 
 
 ### Python Libraries
